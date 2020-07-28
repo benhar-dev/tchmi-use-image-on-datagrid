@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# TcXaeShell Solution File, Format Version 11.00
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FE7A1B72-C5B7-4D7C-BB7D-76384D4DE8E1}") = "tchmi-use-image-on-datagrid", "tchmi-use-image-on-datagrid\tchmi-use-image-on-datagrid.hmiproj", "{38C32D30-5B24-4385-971F-8FFDDCF1D165}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|TwinCAT HMI = Debug|TwinCAT HMI
+		Release|TwinCAT HMI = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38C32D30-5B24-4385-971F-8FFDDCF1D165}.Debug|TwinCAT HMI.ActiveCfg = Debug|TwinCAT HMI
+		{38C32D30-5B24-4385-971F-8FFDDCF1D165}.Debug|TwinCAT HMI.Build.0 = Debug|TwinCAT HMI
+		{38C32D30-5B24-4385-971F-8FFDDCF1D165}.Release|TwinCAT HMI.ActiveCfg = Release|TwinCAT HMI
+		{38C32D30-5B24-4385-971F-8FFDDCF1D165}.Release|TwinCAT HMI.Build.0 = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A95AD0D-3F44-47B3-8702-24DAFCC5C7DF}
+	EndGlobalSection
+EndGlobal
